@@ -1,0 +1,19 @@
+list of command I used to ran this script in aws ec2 instance
+
+chmod 700 server.py
+ ls
+ ./server.py
+ vi server.py
+ ./server.py
+ pip3 install psutil
+ pip install pip3
+ sudo apt install python3-pip
+ pip3 install psutil
+ sudo apt update
+ sudo apt install python3-psutil
+ ./server.py
+ ps
+ du
+ df
+ top
+ htop
